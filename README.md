@@ -1,24 +1,21 @@
-# simpleinvoices
+# Simple Invoice generation with Vue js
 
-## Project setup
+live site available at 🔄
+
+## Task
+Create a simple invoice generation to generate invoice for in exchange of e-mail ID.
+
+## How to run the project
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## What i have learnt
+- Vue js
+- Vue pakages
+- npm
+- Bootstrap 4
+- Tailwind css
